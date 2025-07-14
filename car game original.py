@@ -1,4 +1,3 @@
-#What I have to do is to make a program which should do whar? For every command given it should have a permanent symbol like an arrow sign. It is tough.
 
 instructions_to_start_the_car = """type 'START' to start the car
 type 'STOP' to stop the car
